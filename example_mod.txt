@@ -10,3 +10,4 @@ class ExampleMod(api.Mod):
 
 mod = ExampleMod()
 mod.compile_self(output_dir = './example_mod/')
+
